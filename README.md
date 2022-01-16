@@ -24,7 +24,7 @@
 - effectuer la commande `docker-compose up -d`
 - attendez la fin de la commande
 
-Maintenant vous pouvez accéder à l'application à l'adresse (localhost)[http://localhost]
+Maintenant vous pouvez accéder à l'application à l'adresse [localhost](http://localhost)
 
 avec les identifiants : tlacomblez & mdp : 123456789
 
