@@ -37,7 +37,7 @@ resource "aws_key_pair" "app_ssh" {
   public_key = var.instance_ssh_public_key
   tags = {
     Name      = "application-ssh"
-    createdBy = "listentolearn"
+    createdBy = "tlacomblez"
   }
 }
 
@@ -52,7 +52,7 @@ resource "aws_instance" "app_vm" {
 
   tags = {
     Name      = "application-vm"
-    createdBy = "listentolearn"
+    createdBy = "tlacomblez"
   }
 }
 
