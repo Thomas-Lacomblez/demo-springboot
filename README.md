@@ -26,7 +26,7 @@
 
 Maintenant vous pouvez accéder à l'application à l'adresse [localhost](http://localhost)
 
-avec les identifiants : `tlacomblea` & mdp : `123456789`
+avec les identifiants : `tlacomblez` & mdp : `123456789`
 
 
 ## Lancer l'application sur une Ec2 aws avec terraform et ansible
