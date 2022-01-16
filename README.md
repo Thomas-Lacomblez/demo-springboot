@@ -33,6 +33,10 @@ avec les identifiants : tlacomblez & mdp : 123456789
 
 
 ### La clé d'accès et la clé secret
+
+La clé d'accès et la clé secret sont des clé fournis par AWS 
+
+Accéder à votre dashboard AWS de votre compte. 
 Vous trouverez l'access key et la secret key dans --> `Mes informations d'identification de sécurité` --> `informations d'identification AWS IAM` 
 Vous devriez voir un bouton nommé `Créer une clé d'accès`, cliquez desssus pour créer une clé d'accès.
 Afficher la clé secret et sauvegarder là ! Si vous la perdez vous ne pourrez pas la récupérer il vous faudra re créer une autre clé dans ce cas.
