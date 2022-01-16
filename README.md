@@ -14,7 +14,7 @@
 - ansible
 - Un compte AWS ayant la possibilité de créer des instances ec2 AWS
 - Avoir les connaissances de base sur AWS
-- Avoir des connaissance en système et réseaux
+- Avoir des connaissances en système et réseaux
 
 
 ## Lancer l'application avec docker & docker-compose
