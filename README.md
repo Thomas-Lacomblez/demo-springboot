@@ -20,7 +20,7 @@
 ## Lancer l'application avec docker & docker-compose
 
 - Récupérer le repository.
-- ouvrer dans un terminal ou une invite de commande à la racine du repository
+- ouvrer un terminal ou une invite de commande à la racine du repository
 - effectuer la commande `docker-compose up -d`
 - attendez la fin de la commande
 
