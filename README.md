@@ -86,3 +86,4 @@ Pour accéder au site et vérifier que tout à bien fonctionner accéder via l'a
 ### Tester notre application
 
 Nous avons déjà déployé notre application sur AWS vous pouvez y accéder [ici](http://18.190.18.44)
+Toujours avec les identifiants : `tlacomblez` & mdp : `123456789`
