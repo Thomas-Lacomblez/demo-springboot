@@ -81,3 +81,8 @@ Si tous c'est bien passé vous devriez voir à la fin le message : `vm_public_id
 Pour accéder au site et vérifier que tout à bien fonctionner accéder via l'adresse ip public de votre vm (celle utiliser dans le fichier inventory.yml)
 
 **ATTENTION** L'https n'est pas mis en place il faudra donc y accéder via http://L'ipPublicDeVotreVM 
+
+
+### Tester notre application
+
+Nous avons déjà déployé notre application sur AWS vous pouvez y accéder [ici](http://18.190.18.44)
