@@ -1,14 +1,22 @@
 # demo-springboot
 
-## Prérequis 
+# Sommaire 
+
+1. [Prérequis](#prérequis)
+2. [Lancer l'application avec docker & docker-compose](#docker)
+3. [Lancer l'application sur une Ec2 aws avec terraform et ansible](#terraform)
+4. [Tester notre application](#test)
 
 
-### Pour lancer l'application via docker en local
+## Prérequis <a name="prérequis"></a>
+
+
+### Pour lancer l'application via docker en local 
 
 - docker
 - docker-compose
 
-### Pour lancer avec terraform et ansible sur AWS
+### Pour lancer avec terraform et ansible sur AWS 
 
 - Terraform
 - ansible
@@ -17,7 +25,7 @@
 - Avoir des connaissances en système et réseaux
 
 
-## Lancer l'application avec docker & docker-compose
+## Lancer l'application avec docker & docker-compose <a name="docker"></a>
 
 - Récupérer le repository.
 - ouvrer un terminal ou une invite de commande à la racine du repository
@@ -29,7 +37,7 @@ Maintenant vous pouvez accéder à l'application à l'adresse [localhost](http:/
 avec les identifiants : `tlacomblez` & mdp : `123456789`
 
 
-## Lancer l'application sur une Ec2 aws avec terraform et ansible
+## Lancer l'application sur une Ec2 aws avec terraform et ansible <a name="terraform"></a>
 
 
 ### La clé d'accès et la clé secret
@@ -83,7 +91,7 @@ Pour accéder au site et vérifier que tout à bien fonctionner accéder via l'a
 **ATTENTION** L'https n'est pas mis en place il faudra donc y accéder via http://L'ipPublicDeVotreVM 
 
 
-### Tester notre application
+## Tester notre application <a name="test"></a>
 
 Nous avons déjà déployé notre application sur AWS vous pouvez y accéder [ici](http://18.190.18.44)
 Toujours avec les identifiants : `tlacomblez` & mdp : `123456789`
