@@ -1,6 +1,6 @@
 # demo-springboot
 
-# Sommaire sss
+# Sommaire
 
 1. [Prérequis](#prérequis)
 2. [Lancer l'application avec docker & docker-compose](#docker)
