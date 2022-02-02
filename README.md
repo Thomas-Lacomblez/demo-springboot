@@ -61,7 +61,7 @@ Pour la phrase vous pouvez laisser vide et valider.
 
 Vous avez maintenant une clé ssh public et privé ! (vous les trouverez sous linux par défaut dans `~/.ssh/id_rsa` ou dans le chemin que vous avez précisé).
 
-### Executer Terraform
+### Executer Terraform fghjkl
 
 - Récupérer le repository.
 - ouvrer dans un terminal ou une invite de commande le dossier `terraform` du repository 
